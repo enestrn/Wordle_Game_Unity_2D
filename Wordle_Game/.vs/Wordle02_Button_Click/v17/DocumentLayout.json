@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ns2ru\\OneDrive\\Masa\u00FCst\u00FC\\Wordle02_Button_Click\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52F42E5F-B716-0D10-07ED-BFD4AAE5B2BF}|Assembly-CSharp.csproj|c:\\users\\ns2ru\\onedrive\\masa\u00FCst\u00FC\\wordle02_button_click\\assets\\scripts\\gui_scripts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52F42E5F-B716-0D10-07ED-BFD4AAE5B2BF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gui_scripts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GUI_Scripts.cs",
+              "DocumentMoniker": "C:\\Users\\ns2ru\\OneDrive\\Masa\u00FCst\u00FC\\Wordle02_Button_Click\\Assets\\Scripts\\GUI_Scripts.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GUI_Scripts.cs",
+              "ToolTip": "C:\\Users\\ns2ru\\OneDrive\\Masa\u00FCst\u00FC\\Wordle02_Button_Click\\Assets\\Scripts\\GUI_Scripts.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GUI_Scripts.cs",
+              "ViewState": "AQIAAA4BAAAAAAAAAAAkwC0BAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T23:44:07.41Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

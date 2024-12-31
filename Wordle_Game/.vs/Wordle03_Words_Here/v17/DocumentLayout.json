@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ns2ru\\OneDrive\\Masa\u00FCst\u00FC\\wordle version\\Wordle03_Words_Here\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D816659B-68A9-EE52-89A5-94BEB800C3A8}|Assembly-CSharp.csproj|c:\\users\\ns2ru\\onedrive\\masa\u00FCst\u00FC\\wordle version\\wordle03_words_here\\assets\\scripts\\gui_scripts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D816659B-68A9-EE52-89A5-94BEB800C3A8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gui_scripts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GUI_Scripts.cs",
+              "DocumentMoniker": "C:\\Users\\ns2ru\\OneDrive\\Masa\u00FCst\u00FC\\wordle version\\Wordle03_Words_Here\\Assets\\Scripts\\GUI_Scripts.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GUI_Scripts.cs",
+              "ToolTip": "C:\\Users\\ns2ru\\OneDrive\\Masa\u00FCst\u00FC\\wordle version\\Wordle03_Words_Here\\Assets\\Scripts\\GUI_Scripts.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GUI_Scripts.cs",
+              "ViewState": "AQIAAAEBAAAAAAAAAAD4vxsBAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T23:28:45.518Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

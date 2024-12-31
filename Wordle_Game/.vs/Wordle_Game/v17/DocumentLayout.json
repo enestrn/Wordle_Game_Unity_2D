@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ns2ru\\OneDrive\\Masa\u00FCst\u00FC\\Abdullah_Enes_Turan_21040301037_Oyun_Vize\\Wordle_Game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8828479-AD1E-2444-1293-6DB0D355ED68}|Assembly-CSharp.csproj|c:\\users\\ns2ru\\onedrive\\masa\u00FCst\u00FC\\abdullah_enes_turan_21040301037_oyun_vize\\wordle_game\\assets\\scripts\\gui_scripts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8828479-AD1E-2444-1293-6DB0D355ED68}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gui_scripts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GUI_Scripts.cs",
+              "DocumentMoniker": "C:\\Users\\ns2ru\\OneDrive\\Masa\u00FCst\u00FC\\Abdullah_Enes_Turan_21040301037_Oyun_Vize\\Wordle_Game\\Assets\\Scripts\\GUI_Scripts.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GUI_Scripts.cs",
+              "ToolTip": "C:\\Users\\ns2ru\\OneDrive\\Masa\u00FCst\u00FC\\Abdullah_Enes_Turan_21040301037_Oyun_Vize\\Wordle_Game\\Assets\\Scripts\\GUI_Scripts.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GUI_Scripts.cs",
+              "ViewState": "AQIAAPcBAAAAAAAAAAAAAN8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T16:22:29.02Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
